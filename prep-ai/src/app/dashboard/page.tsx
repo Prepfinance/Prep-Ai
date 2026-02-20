@@ -28,7 +28,7 @@ export default function Dashboard() {
             Welcome to Prep AI! The full dashboard experience is coming soon.
           </p>
           <p className="text-gray-600 mb-8">
-            This is a placeholder page. We're building out the complete dashboard with:
+            This is a placeholder page. We&rsquo;re building out the complete dashboard with:
           </p>
           <ul className="text-left max-w-md mx-auto space-y-2 text-gray-600 mb-8">
             <li className="flex items-center gap-2">
